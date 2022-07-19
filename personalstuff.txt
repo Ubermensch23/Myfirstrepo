@@ -1,0 +1,3 @@
+I want to create a place for people to share articles that have helped them master git (does that at least count as a half-pun?). This article is a work in progress. 
+As such, you might want to come back in the present, 
+or even suggest edits of your own in the responses section. This list was created to serve as a “Bookmarking” page for me, and I hope it can do the same for you, too. Happy exploring!
